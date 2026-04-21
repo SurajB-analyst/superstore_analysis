@@ -1,11 +1,30 @@
 # Excel Analyst Portfolio – Suraj Bhagaye
 
-Welcome to my analytics portfolio built in Microsoft Excel.
+Aspiring Data Analyst transitioning from Mechanical Engineering with hands-on Excel business analytics projects.
 
-## Projects
+## Featured Projects
 
-* Project 1: Executive Sales Dashboard
-* Project 2: Discount vs Profit Analysis
-* Project 3: Regional Performance Dashboard
+### 📊 Project 1 – Executive Sales Dashboard
 
-More projects being added.
+Sales KPIs, trends, top products, profitability analysis.
+
+### 💰 Project 2 – Discount vs Profit Analysis
+
+Pricing analytics using scatter plots, heatmaps, and loss analysis.
+
+### 🌍 Project 3 – Regional Performance Dashboard
+
+Region, state, city-level performance and growth reporting.
+
+## Skills
+
+* Microsoft Excel
+* Pivot Tables
+* Dashboarding
+* Slicers
+* Business Analysis
+* Data Visualization
+
+## Open to Opportunities
+
+Data Analyst | MIS Executive | Reporting Analyst | Operations Analyst
